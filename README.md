@@ -9,3 +9,9 @@
 </div>
 <br/>
 
+## Tela de login
+Formulário com os campos login e senha, ao clicar em entrar será redirecionado a uma tela home ficticía onde no menu há a opção Sair que volta para a tela de Login.
+
+## Cadastro
+**Opção de Cadastre-se que direciona a um formulário de cadastro.
+
